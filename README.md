@@ -1,3 +1,5 @@
+# Note: This repo is now archived. It is still available READ ONLY for forking or historical interest.
+
 # UnityXAML
 Unity sample project showing a XAML webview and interaction with a Unity application
 
